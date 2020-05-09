@@ -1,0 +1,40 @@
+{
+    "results": [
+        {
+            "user": {
+                "gender": "female",
+                "name": {
+                    "title": "mrs",
+                    "first": "alyssa",
+                    "last": "roussel"
+                },
+                "location": {
+                    "street": "9074 rue abel-gance",
+                    "city": "clermont-ferrand",
+                    "state": "ain",
+                    "zip": 92469
+                },
+                "email": "alyssa.roussel@example.com",
+                "username": "purplecat194",
+                "password": "vegeta",
+                "salt": "0541vAAp",
+                "md5": "ede5ef36999c1045fcb1819f743a8072",
+                "sha1": "30aa9e260505f3f46ffc53980e0f788bda2dbdb4",
+                "sha256": "ee6d3a1721bb67c9befe2f30c6854d45e29047536799ae93009db002a10bbdb7",
+                "registered": 1132368370,
+                "dob": 803266932,
+                "phone": "03-71-35-98-70",
+                "cell": "06-36-51-72-24",
+                "INSEE": "2950676717995 23",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/women/5.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/women/5.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/5.jpg"
+                }
+            }
+        }
+    ],
+    "nationality": "FR",
+    "seed": "3dafce6907bc857607",
+    "version": "0.8"
+}
