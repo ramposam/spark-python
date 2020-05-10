@@ -27,6 +27,7 @@ do
   else
     SQOOPCMD="${SQOOPCMD} --autoreset-to-one-mapper"
   fi
+  echo ${SQOOPCMD} >> sqoop_gen_script.log
   echo "Loading ${TABLENAME} using ${SQOOPCMD}"
   `${SQOOPCMD} 2>sqoop_${STARTDATE}_${TABLE}.err 1>sqoop_${STARTDATE}_${TABLE}.out`
   NOOFRECORDS=`grep "Retrieved .* records" sqoop_${STARTDATE}_${TABLE}.err|cut -d" " -f6`
