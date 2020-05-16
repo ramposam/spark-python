@@ -1,0 +1,9 @@
+[dev]
+executionmode=local
+input.base.dir=data
+output.base.dir=output
+
+[prod]
+executionmode=yarn-client
+input.base.dir=data
+output.base.dir=output

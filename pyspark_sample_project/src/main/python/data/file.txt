@@ -1,0 +1,2 @@
+In this Apache Spark Tutorial, you will learn Spark with Scala examples and every example explain here is available at Spark-examples Github project for reference. 
+All Spark examples provided in this Spark Tutorials are basic, simple, easy to practice for beginners who are enthusiastic to learn Spark and were tested in our development environment.
