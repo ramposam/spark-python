@@ -1,0 +1,17 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/rposam2020/Scala_SBT_project/target/scala-2.11/scala_sbt_project_2.11-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	wordcount[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/rposam2020/Scala_SBT_project/target/scala-2.11/classes/wordcount[0m
+[0m[[0m[0mdebug[0m] [0m[0m	wordcount/WordCount$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/rposam2020/Scala_SBT_project/target/scala-2.11/classes/wordcount/WordCount$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	wordcount/WordCount$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/rposam2020/Scala_SBT_project/target/scala-2.11/classes/wordcount/WordCount$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	wordcount/WordCount$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/rposam2020/Scala_SBT_project/target/scala-2.11/classes/wordcount/WordCount$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	wordcount/WordCount.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/rposam2020/Scala_SBT_project/target/scala-2.11/classes/wordcount/WordCount.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	wordcount/WordCount$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/rposam2020/Scala_SBT_project/target/scala-2.11/classes/wordcount/WordCount$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	application.properties[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/rposam2020/Scala_SBT_project/target/scala-2.11/classes/application.properties[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
