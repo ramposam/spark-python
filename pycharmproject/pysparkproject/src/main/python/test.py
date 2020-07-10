@@ -1,5 +1,5 @@
-from com.session.Session import Session
-from com.conf.Config import Config
+from common.session.Session import Session
+from common.conf.Config import Config
 import sys
 # sys.argv[1]= config\properties.txt
 # sys.argv[2] = dev
@@ -21,7 +21,7 @@ if __name__ == "__main__":
     print("section:", section)
     spark = Session().getSparkSession()
     conf = Config(configPath, section)
-    inputDir = conf.getInputDir()
-    outputDir = conf.getOutputDir()
+    inputDir = conf.srcDir
+    outputDir = conf.tgtDir
     res = readFile(spark, inputDir)
     writeFile(spark,res, outputDir)

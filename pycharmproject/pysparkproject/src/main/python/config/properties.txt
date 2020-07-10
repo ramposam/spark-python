@@ -14,6 +14,6 @@ password=itversity
 database=retail_export
 hostname=jdbc:mysql://ms.itversity.com
 driver=com.mysql.jdbc.Driver
-libpath=pyspark_project/src/main/python/lib/mysql-connector-java-5.1.44.jar
+libpath=lib/mysql-connector-java-5.1.44.jar
 table=emp
 output.dir=output/mysql_out
